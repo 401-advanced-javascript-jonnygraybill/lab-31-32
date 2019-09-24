@@ -2,7 +2,7 @@ import React from 'react';
 
 import useForm from './hooks/form.js';
 
-const API = 'https://api-401n13.herokuapp.com/api/v1/shopping';
+const API = 'https://mongo-api-server.herokuapp.com/api/v1/todo';
 
 function Shopping(props) {
   const [handleChange, handleSubmit] = useForm(saveFormDataToServer);
@@ -26,7 +26,7 @@ function Shopping(props) {
     <form
       onSubmit={handleSubmit}
       method="post"
-      action="https://api-401n13.herokuapp.com/api/v1/shopping"
+      action="https://mongo-api-server.herokuapp.com/api/v1/todo"
     >
       <label>
         <input
