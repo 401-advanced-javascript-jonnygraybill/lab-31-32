@@ -3,7 +3,7 @@
 ### Author: Jonny Graybill
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/lab-09/pull/1) 
+* [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/lab-31-32) 
 
 ### Modules
 #### `app.js`
