@@ -4,6 +4,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/lab-31-32) 
+* [Deployment](https://admiring-ritchie-e3bf17.netlify.com)
 
 ### Modules
 #### `app.js`
